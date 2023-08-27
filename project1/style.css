@@ -1,0 +1,68 @@
+body{
+    background-color: burlywood;
+}
+.container img{
+
+
+ height: 400px;
+    width: 500px;
+
+
+}
+.container h1{
+    text-align: center;
+    font-size: 50px;
+}
+.container p{
+    font-size: 20px;
+    font-family:fantasy ;
+    
+}
+
+.class h1{
+    font-size: 50px;
+    /* position: absolute; */
+    /* border: 2px solid red; */
+    
+}
+.class h2{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.class p{
+    
+    font-size: 20px;
+    margin: 10px 10px ;
+    padding: 10px;
+}
+h2{
+    font-size: 25px;
+    font-family:cursive ;
+    text-align: center;
+}
+
+.box{
+    border: 2px solid black;
+    padding: 34px;
+    margin: -14px 198px ;
+    border-radius: 28px;
+    margin-bottom: 20px;
+    background-color:rgb(187, 152, 100);
+
+}
+.box p {
+    font-size: 20px;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+}
+
+.box img{
+
+    
+    display: block;
+max-width: 20%;
+height: auto;
+margin: 0 auto;
+border-radius: 25px;
+}
